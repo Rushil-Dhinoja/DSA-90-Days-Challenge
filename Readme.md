@@ -6,3 +6,7 @@
 **Day 2**
 
 - Solved the Most Famous Two Sum with O(n) in JavaScript and Python
+
+**Day 3**
+
+- Solved the valid parentheses in JavaScript
