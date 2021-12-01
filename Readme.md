@@ -13,7 +13,7 @@
 
 **Day 4**
 
-- Solved the Valid Parentheses in Python (Forgot to commit pushing on next day)
+- Solved the Valid Parentheses in Python (Forgot to commit pushing on next day;
 
 **Day 5**
 
