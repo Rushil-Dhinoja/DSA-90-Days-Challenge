@@ -10,3 +10,7 @@
 **Day 3**
 
 - Solved the valid parentheses in JavaScript
+
+**Day 4**
+
+- Solved the Valid Parentheses in Python (Forgot to commit pushing on next day)
