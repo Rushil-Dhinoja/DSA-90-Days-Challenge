@@ -22,3 +22,9 @@
 **Day 6**
 
 - Solved the Running Sum of 1d array in JavaScript and python
+
+**Day 7**
+
+- Solved Sum of all even numbers till n in JavaScript and Python
+- Solved Fahrenheit to Celsius in JavaScript and Python
+- Solved Pattern 1 from Love Babbar DSA Lecture 3
