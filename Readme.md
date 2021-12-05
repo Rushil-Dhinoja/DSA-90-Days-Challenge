@@ -28,3 +28,7 @@
 - Solved Sum of all even numbers till n in JavaScript and Python
 - Solved Fahrenheit to Celsius in JavaScript and Python
 - Solved Pattern 1 from Love Babbar DSA Lecture 3
+
+**Day 8**
+
+- Solved 2-8 Pattern from Love Babbar DSA Lecture 4 in JavaScript and Python
