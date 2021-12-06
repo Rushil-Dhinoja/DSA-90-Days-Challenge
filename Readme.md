@@ -32,3 +32,7 @@
 **Day 8**
 
 - Solved 2-8 Pattern from Love Babbar DSA Lecture 4 in JavaScript and Python
+
+**Day 9**
+
+- Solved 9 & 10 pattern from Love Babbar DSA Lecture in JavaScript and Python
