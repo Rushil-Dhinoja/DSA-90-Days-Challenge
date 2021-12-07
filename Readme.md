@@ -36,3 +36,7 @@
 **Day 9**
 
 - Solved 9 & 10 pattern from Love Babbar DSA Lecture in JavaScript and Python
+
+**Day 10**
+
+- Solved Pattern 11 from Love Babbar DSA Lecture in JavaScript and Python
