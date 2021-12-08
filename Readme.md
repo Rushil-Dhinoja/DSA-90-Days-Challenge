@@ -40,3 +40,7 @@
 **Day 10**
 
 - Solved Pattern 11 from Love Babbar DSA Lecture in JavaScript and Python
+
+**Day 11**
+
+- Solved Pattern 12 and 13 from Love Babbar Dsa Lecture in Js and Python
