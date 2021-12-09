@@ -44,3 +44,7 @@
 **Day 11**
 
 - Solved Pattern 12 and 13 from Love Babbar Dsa Lecture in Js and Python
+
+**Day 12**
+
+- Solved Pattern 14 from Love Babbar DSA Lecture in JS and Python
