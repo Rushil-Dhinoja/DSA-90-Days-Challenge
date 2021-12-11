@@ -5,7 +5,7 @@ function PatternFifteen(n) {
     let j = 1;
     let str = "";
     while (j <= i) {
-      str += String.fromCharCode(64 + i);
+      str += String.fromCharCode(65 + i - 1);
       j++;
     }
     i++;

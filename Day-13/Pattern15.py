@@ -4,7 +4,7 @@ def PatternFifteen(n):
     while (i <= n):
         j = 1
         while(j <= i):
-            print(chr(64 + i), end='')
+            print(chr(65 + i -1), end='')
             j += 1
         i += 1
         print(end='\n')

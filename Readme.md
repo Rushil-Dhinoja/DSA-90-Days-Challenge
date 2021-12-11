@@ -52,3 +52,7 @@
 **Day 13**
 
 - Solved Pattern 15 from Love Babbar DSA Lecture in JS and Python
+
+**Day 14**
+
+- Solved Pattern 16 to 20 in Python
