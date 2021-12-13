@@ -60,3 +60,7 @@
 **Day 15**
 
 - Solved Pattern 17 to 20 in JS and 21 & 21 in JS and Python
+
+**Day 16**
+
+- Solved Pattern 23 to 28 in Python
