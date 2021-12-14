@@ -64,3 +64,7 @@
 **Day 16**
 
 - Solved Pattern 23 to 28 in Python
+
+**Day 17**
+
+- Solved Pattern 23 to 28 in JS
