@@ -68,3 +68,11 @@
 **Day 17**
 
 - Solved Pattern 23 to 28 in JS
+
+**Day 18**
+
+- Started 5th Video of Love Babbar DSA Series.
+
+**Day 19**
+
+- Completed the 5th video of Love Babbar DSA Series
