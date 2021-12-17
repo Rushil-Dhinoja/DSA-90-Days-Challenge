@@ -76,3 +76,7 @@
 **Day 19**
 
 - Completed the 5th video of Love Babbar DSA Series
+
+**Day 20**
+
+- Completed the 6th Video of Love Babbar DSA Series
