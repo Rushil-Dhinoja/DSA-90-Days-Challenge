@@ -80,3 +80,7 @@
 **Day 20**
 
 - Completed the 6th Video of Love Babbar DSA Series
+
+**Day 21**
+
+- Pushing Late in night but solved two leet code problem and learned about types in python
