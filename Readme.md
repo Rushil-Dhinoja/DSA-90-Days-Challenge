@@ -84,3 +84,7 @@
 **Day 21**
 
 - Pushing Late in night but solved two leet code problem and learned about types in python
+
+**Day 22**
+
+- Solved 1 Question on Leet code in Python
