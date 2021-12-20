@@ -88,3 +88,7 @@
 **Day 22**
 
 - Solved 1 Question on Leet code in Python
+
+**Day 23**
+
+- Created Mini Calculator using Switch in JS
