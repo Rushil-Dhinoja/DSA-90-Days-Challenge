@@ -91,4 +91,4 @@
 
 **Day 23**
 
-- Created Mini Calculator using Switch in JS
+- Created Mini Calculator using Switch in JS because Python don't support switch;
