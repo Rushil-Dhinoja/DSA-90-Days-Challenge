@@ -92,3 +92,7 @@
 **Day 23**
 
 - Created Mini Calculator using Switch in JS because Python don't support switch;
+
+**Day 24**
+
+- Created Denomination Counter in JS using Switch Case
