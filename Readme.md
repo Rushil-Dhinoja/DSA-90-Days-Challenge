@@ -96,3 +96,7 @@
 **Day 24**
 
 - Created Denomination Counter in JS using Switch Case
+
+**Day 25**
+
+- Created Functions to Produce NCR and Counting till N in both languages Python and JavaScript
