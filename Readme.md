@@ -100,3 +100,7 @@
 **Day 25**
 
 - Created Functions to Produce NCR and Counting till N in both languages Python and JavaScript
+
+**Day 26**
+
+- Wrote an isPrime Function and AP Function in both languages JS and Python
