@@ -104,3 +104,7 @@
 **Day 26**
 
 - Wrote an isPrime Function and AP Function in both languages JS and Python
+
+**Day 27**
+
+- Wrote 2 Function one to get Nth number from Fibonacci Series and One to get Set Bits of two Numbers
