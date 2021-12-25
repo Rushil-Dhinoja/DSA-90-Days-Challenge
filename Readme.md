@@ -108,3 +108,7 @@
 **Day 27**
 
 - Wrote 2 Function one to get Nth number from Fibonacci Series and One to get Set Bits of two Numbers
+
+**Day 28**
+
+- Wrote 2 Program 1 for Linear Search and MinMax of array in Python and JS
