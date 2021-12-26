@@ -112,3 +112,7 @@
 **Day 28**
 
 - Wrote 2 Program 1 for Linear Search and MinMax of array in Python and JS
+
+**Day 29**
+
+- Wrote 1 Program in for Sum of Array and added one more solution for Power of Two question using setbits
