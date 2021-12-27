@@ -116,3 +116,7 @@
 **Day 29**
 
 - Wrote 1 Program in for Sum of Array and added one more solution for Power of Two question using setbits
+
+**Day 30**
+
+- Reverse Array and Swap Alternate in JS and Python
