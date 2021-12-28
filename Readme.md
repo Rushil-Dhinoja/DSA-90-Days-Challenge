@@ -120,3 +120,11 @@
 **Day 30**
 
 - Reverse Array and Swap Alternate in JS and Python
+
+**Day 31**
+
+- Solved four problems on Leetcode and Code Studio
+  - Find Unique Element
+  - Find if all the occurrences are unique or not
+  - Duplicate in array
+  - Find All Duplicate in Array

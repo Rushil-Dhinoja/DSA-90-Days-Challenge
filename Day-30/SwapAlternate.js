@@ -1,8 +1,10 @@
 function SwapAlternate(arr) {
-  for (let i = 0; i < Math.floor(arr.length / 2); i += 2) {
-    let temp = arr[i];
-    arr[i] = arr[i + 1];
-    arr[i + 1] = temp;
+  for (let i = 0; i < arr.length; i++) {
+    if (i % 2 !== 0) {
+      let temp = arr[i];
+      arr[i] = arr[i - 1];
+      arr[i - 1] = temp;
+    }
   }
 
   console.log(arr);
