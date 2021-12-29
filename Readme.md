@@ -128,3 +128,11 @@
   - Find if all the occurrences are unique or not
   - Duplicate in array
   - Find All Duplicate in Array
+
+**Day 32**
+
+- Solved Fout Problems
+  - ArrayIntersection
+  - SortZeroAndOnes
+  - SortZeroOnesTwos
+  - SumOfTriplets
