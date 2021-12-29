@@ -131,7 +131,7 @@
 
 **Day 32**
 
-- Solved Fout Problems
+- Solved Four Problems
   - ArrayIntersection
   - SortZeroAndOnes
   - SortZeroOnesTwos
