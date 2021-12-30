@@ -136,3 +136,7 @@
   - SortZeroAndOnes
   - SortZeroOnesTwos
   - SumOfTriplets
+
+**Day 33**
+
+- Wrote 2 different approaches for Binary Search in 2 Language JS and Python
