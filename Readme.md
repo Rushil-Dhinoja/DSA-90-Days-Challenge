@@ -140,3 +140,9 @@
 **Day 33**
 
 - Wrote 2 different approaches for Binary Search in 2 Language JS and Python
+
+**Day 34**
+
+- Solved 2 Problems using Binary Search
+  - First and Last Occurrence in Sorted Array
+  - Peak Of Mountain
