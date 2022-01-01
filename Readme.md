@@ -146,3 +146,7 @@
 - Solved 2 Problems using Binary Search
   - First and Last Occurrence in Sorted Array
   - Peak Of Mountain
+
+**Day 35**
+
+- Solved the pivot of array problem leetcode
