@@ -150,3 +150,14 @@
 **Day 35**
 
 - Solved the pivot of array problem leetcode
+
+**Day 36**
+
+- Solved 3 Problems today using Binary Search
+  - Pivot In Array
+  - Search in Sorted Rotated Array
+  - Square Root Using binary Search
+
+**Day 37**
+
+- Solved Book Allocation Problem in JS
