@@ -161,3 +161,7 @@
 **Day 37**
 
 - Solved Book Allocation Problem in JS
+
+**Day 38**
+
+- Solved Book Allocation in python and Aggressive Cow in python
