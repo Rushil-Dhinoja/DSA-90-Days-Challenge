@@ -165,3 +165,11 @@
 **Day 38**
 
 - Solved Book Allocation in python and Aggressive Cow in python
+
+**Day 39**
+
+- Solved Selection Sort in both languages JS and Python
+
+**Day 39**
+
+- Solved Bubble Sort in both languages JS and Python
