@@ -170,6 +170,10 @@
 
 - Solved Selection Sort in both languages JS and Python
 
-**Day 39**
+**Day 40**
 
 - Solved Bubble Sort in both languages JS and Python
+
+**Day 41**
+
+- Solved First Reoccurring Character using HashTable in JS
