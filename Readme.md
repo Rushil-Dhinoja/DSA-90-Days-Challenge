@@ -177,3 +177,7 @@
 **Day 41**
 
 - Solved First Reoccurring Character using HashTable in JS
+
+**Day 42**
+
+- Solved Missing Number in JS using a mathematical formula
