@@ -181,3 +181,7 @@
 **Day 42**
 
 - Solved Missing Number in JS using a mathematical formula
+
+**Day 43**
+
+- Solved a problem to concatenate an array
