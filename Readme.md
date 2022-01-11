@@ -189,3 +189,7 @@
 **Day 44**
 
 - Solved Insertion Sort in JS and Python
+
+**Day 45**
+
+- Insertion Sort using While Loop

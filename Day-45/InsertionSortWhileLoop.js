@@ -1,14 +1,17 @@
 function InsertionSort(arr) {
-  for (let i = 1; i < arr.length; i++) {
+  let i = 1;
+  while (i < arr.length) {
     let temp = arr[i];
     let j = i - 1;
-    for (; j >= 0; j--) {
+    while (j >= 0) {
       if (arr[j] > temp) {
         arr[j + 1] = arr[j];
       } else {
         break;
       }
+      j--;
     }
+    i++;
     arr[j + 1] = temp;
   }
   console.log(arr);
