@@ -186,6 +186,6 @@
 
 - Solved a problem to concatenate an array
 
-\**Day 44*8
+**Day 44**
 
 - Solved Insertion Sort in JS and Python
