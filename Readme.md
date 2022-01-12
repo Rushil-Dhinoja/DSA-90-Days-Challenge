@@ -193,3 +193,7 @@
 **Day 45**
 
 - Insertion Sort using While Loop
+
+**Day 46**
+
+- Reverse a array from given index to end
