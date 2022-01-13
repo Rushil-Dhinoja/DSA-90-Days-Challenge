@@ -197,3 +197,7 @@
 **Day 46**
 
 - Reverse a array from given index to end
+
+**Day 47**
+
+- Solved problem to merge two sorted array
