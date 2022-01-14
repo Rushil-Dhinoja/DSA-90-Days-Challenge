@@ -201,3 +201,7 @@
 **Day 47**
 
 - Solved problem to merge two sorted array
+
+**Day 48**
+
+- Solved Move Zeros to right problem
