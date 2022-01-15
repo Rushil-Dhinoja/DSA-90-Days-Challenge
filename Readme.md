@@ -205,3 +205,7 @@
 **Day 48**
 
 - Solved Move Zeros to right problem
+
+**Day 49**
+
+- Solved Rotate Array by K
