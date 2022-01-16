@@ -209,3 +209,7 @@
 **Day 49**
 
 - Solved Rotate Array by K
+
+**Day 50**
+
+- Solved Check if array is rotated sorted
