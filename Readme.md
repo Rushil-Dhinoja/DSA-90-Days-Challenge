@@ -213,3 +213,7 @@
 **Day 50**
 
 - Solved Check if array is rotated sorted
+
+**Day 51**
+
+- Solved ArraySum in Python and JavaScript
