@@ -217,3 +217,7 @@
 **Day 51**
 
 - Solved ArraySum in Python and JavaScript
+
+**Day 52**
+
+- Length OF String
