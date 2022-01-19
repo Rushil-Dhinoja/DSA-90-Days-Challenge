@@ -221,3 +221,8 @@
 **Day 52**
 
 - Length OF String
+
+**Day 53**
+
+- Solved Reverse String
+- Solved Check of Palindrome String
