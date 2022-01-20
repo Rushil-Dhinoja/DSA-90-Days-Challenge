@@ -226,3 +226,7 @@
 
 - Solved Reverse String
 - Solved Check of Palindrome String
+
+**Day 54**
+
+- Check if palindrome is valid
