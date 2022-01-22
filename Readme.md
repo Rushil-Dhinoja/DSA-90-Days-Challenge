@@ -234,3 +234,7 @@
 **Day 55**
 
 = Reverse Words
+
+**Day 56**
+
+- Solved Maximum Occurring Character in String
