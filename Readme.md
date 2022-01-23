@@ -241,7 +241,7 @@
 
 **Day 57**
 
-- Replace all adjacent chars
+- Replace all adjacent characters
 
 **Day 58**
 
