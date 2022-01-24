@@ -238,3 +238,7 @@
 **Day 56**
 
 - Solved Maximum Occurring Character in String
+
+**Day 57**
+
+- Replace Spaces with '@40'
