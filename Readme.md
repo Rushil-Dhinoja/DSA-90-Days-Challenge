@@ -241,4 +241,8 @@
 
 **Day 57**
 
+- Replace all adjacent chars
+
+**Day 58**
+
 - Replace Spaces with '@40'
