@@ -246,3 +246,7 @@
 **Day 58**
 
 - Replace Spaces with '@40'
+
+**Day 59**
+
+= String Compression Solution
