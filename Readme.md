@@ -250,3 +250,7 @@
 **Day 59**
 
 = String Compression Solution
+
+**Day 60**
+
+- Solved Permutation of an string
