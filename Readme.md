@@ -254,3 +254,9 @@
 **Day 60**
 
 - Solved Permutation of an string
+- Linear Search in 2-D Array
+
+**Day 61**
+
+- Largest Row Sum in 2D array
+- Row wise sum in 2D Array
