@@ -260,3 +260,7 @@
 
 - Largest Row Sum in 2D array
 - Row wise sum in 2D Array
+
+**Day 62**
+
+- Wave Print in 2D array
