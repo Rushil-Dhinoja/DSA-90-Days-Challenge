@@ -264,3 +264,7 @@
 **Day 62**
 
 - Wave Print in 2D array
+
+**Day 63**
+
+- Solved Spiral Print in 2D Array
