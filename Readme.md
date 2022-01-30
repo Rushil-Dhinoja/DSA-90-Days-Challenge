@@ -268,3 +268,7 @@
 **Day 63**
 
 - Solved Spiral Print in 2D Array
+
+**Day 64**
+
+- Binary Search in 2D Array
