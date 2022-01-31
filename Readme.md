@@ -272,3 +272,7 @@
 **Day 64**
 
 - Binary Search in 2D Array
+
+**Day 65**
+
+- Search in matrix 2
