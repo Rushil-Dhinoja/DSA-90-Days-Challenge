@@ -276,3 +276,8 @@
 **Day 65**
 
 - Search in matrix 2
+
+**Day 66**
+
+- Prime Optimized Program
+- Matrix Search
