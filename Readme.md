@@ -281,3 +281,8 @@
 
 - Prime Optimized Program
 - Matrix Search
+
+**Day 67**
+
+- Memoized function in JS
+- Recursive Infinite Function Calls
