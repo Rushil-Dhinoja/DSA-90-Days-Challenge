@@ -286,3 +286,7 @@
 
 - Memoized function in JS
 - Recursive Infinite Function Calls
+
+**Day 68**
+
+- Recursive Factorial
