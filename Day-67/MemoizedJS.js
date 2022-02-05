@@ -21,12 +21,3 @@ console.timeEnd("First Call");
 console.time("First Call");
 console.log(fastClumsy(1, 5));
 console.timeEnd("First Call");
-
-function add(a) {
-  return function (b) {
-    if (b) return add(a + b);
-    return a;
-  };
-}
-
-console.log(add(5)(4)(4)(8)());
