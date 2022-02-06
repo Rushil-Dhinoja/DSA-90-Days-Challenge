@@ -297,4 +297,4 @@
 
 **Day 70**
 
-- Max Wealth of a customer problem
+- Maximum Wealth of a customer problem
