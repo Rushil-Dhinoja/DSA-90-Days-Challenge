@@ -290,3 +290,11 @@
 **Day 68**
 
 - Recursive Factorial
+
+**Day 69**
+
+- Diagonal Difference with explanation
+
+**Day 70**
+
+- Max Wealth of a customer problem
