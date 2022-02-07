@@ -298,3 +298,7 @@
 **Day 70**
 
 - Maximum Wealth of a customer problem
+
+**Day 71**
+
+- Shuffle The Array
