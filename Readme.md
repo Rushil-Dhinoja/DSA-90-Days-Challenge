@@ -302,4 +302,4 @@
 **Day 71**
 
 - Shuffle The Array
-- Power Of 2 Recurssion
+- Power Of 2 Recursion
