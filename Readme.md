@@ -303,3 +303,8 @@
 
 - Shuffle The Array
 - Power Of 2 Recursion
+
+**Day 72**
+
+- Printing Number using recursion
+- Fibo Series using Recursion
