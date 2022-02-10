@@ -313,3 +313,9 @@
 
 - SayDigits Problem
 - Climbing Stairs
+
+**Day 74**
+
+- Array Sum using Recursions
+- isSorted Array
+- Linear Search
